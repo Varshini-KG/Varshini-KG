@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varshini-KG
+                                                                # Hi 👋, I’m Varshini K G 
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning to build my portfolio to get placed on my dream job.
 - 📫 How to reach me through my linkedin or instagram which is in my bio.
