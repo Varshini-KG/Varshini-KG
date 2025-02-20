@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Tableau Projects are at **[https://public.tableau.com/app/profile/varshini.k.g/vizzes](https://public.tableau.com/app/profile/varshini.k.g/vizzes)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/varshini-gandhirajan-061198v**
+- 📫 How to reach me **https://www.linkedin.com/in/varshini-kg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
