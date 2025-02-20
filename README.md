@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varshini K G</h1>
-<h3 align="center">A Data Analyst enthusiast who is currently working on improving my skills to land on my DREAM JOB</h3>
+<h3 align="center">A Data Analystics enthusiast with hands-on data analysis experience, skilled in Excel, Python, SQL, Power-BI and Tableau, and ready to contribute insights
+and drive decision-making.</h3>
 
 
 
