@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varshini! </h1>
-Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights that drive smarter decisions. With a strong foundation and hands-on experience, skilled in Excel, Python, SQL, Power-BI and Tableau, I specialize in crafting compelling visualizations and dashboards that make data speak.
+
+🔍 **ABOUT ME** 
+
+ Welcome to my GitHub profile! I'm passionate about transforming raw data into actionable insights that drive smarter decisions. With a strong foundation and hands-on experience, skilled in Excel, Python, SQL, Power-BI and Tableau, I specialize in crafting compelling visualizations and dashboards that make data speak.
 
 ---
 
